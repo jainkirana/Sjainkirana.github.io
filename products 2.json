@@ -3,36 +3,36 @@
     "name": "Aashirvaad Atta",
     "price": 190,
     "weight": "5kg",
-    "category": "Aata"
+    "category": "अनाज (Grains)"
   },
   {
     "name": "Moong Dal",
     "price": 90,
     "weight": "1kg",
-    "category": "Aata"
+    "category": "अनाज (Grains)"
   },
   {
     "name": "Haldi Powder",
     "price": 30,
     "weight": "100gm",
-    "category": " मसाले (Spices)"
+    "category": "मसाले (Spices)"
   },
   {
     "name": "Lal Mirch Powder",
     "price": 35,
     "weight": "100gm",
-    "category": " मसाले (Spices)"
+    "category": "मसाले (Spices)"
   },
   {
     "name": "Fortune Oil",
     "price": 150,
     "weight": "1L",
-    "category": "Oil"
+    "category": "तेल / घी"
   },
   {
     "name": "Kurkure Masala Munch",
     "price": 10,
     "weight": "50gm",
-    "category": "Snacks"
+    "category": "स्नैक्स / नमकीन"
   }
 ]
